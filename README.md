@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-Hi 👋 I'm Gescale Darati
+Hi, I'm Gescale Darati
 ======================
 
 **Software Engineer**
@@ -14,12 +14,12 @@ Hi 👋 I'm Gescale Darati
 
 ---
 
-### 🧠 Short Bio
+### Short Bio
 > **I build systems that think fast and fail gracefully | Designing structure out of chaos, one problem at a time.**
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I’m a **Software Engineer** and a **final-year BSc Computing student (Class of 2026)** at the **University of South Africa (UNISA)**.
 
@@ -35,13 +35,13 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### 🎓 Education
+### Education
 - **BSc in Computing** — University of South Africa (UNISA)  
   *Final year · Expected completion: 2026*
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - **C# and .NET**
 - Software Project Management
 - Numerical Methods II
@@ -49,14 +49,14 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### 🗄️ Databases Experience
+### Databases Experience
 - **Oracle SQL**
 - **MySQL**
 - **MongoDB**
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -84,7 +84,7 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://github.com/gescale" target="_blank" rel="noreferrer">
@@ -106,7 +106,7 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
@@ -124,11 +124,11 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### ✍️ Writing & Knowledge Sharing
+### Writing & Knowledge Sharing
 
 I write about **software design, systems thinking, optimisation, and learning in public**.
 
-- ✨ **Medium:** [medium.com/@gescale](https://medium.com/@gescale)
+- **Medium:** [medium.com/@gescale](https://medium.com/@gescale)
 
 Upcoming topics:
 - Designing structure out of chaos
