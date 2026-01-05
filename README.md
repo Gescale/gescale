@@ -124,18 +124,20 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true" alt="Gescale's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true">
+  <img alt="Gescale's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true">
 </picture>
 
 <br/>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact">
 </picture>
 
 ---
