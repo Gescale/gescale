@@ -120,7 +120,7 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true&theme=dark">
