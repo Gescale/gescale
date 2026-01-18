@@ -120,10 +120,6 @@ I see software engineering as an exercise in **decision-making and trade-offs**,
 
 ---
 
-### GitHub Stats
-
-### 📊 GitHub Stats
-
 ### 📊 GitHub Stats
 
 <picture>
