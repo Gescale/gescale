@@ -19,25 +19,9 @@ Hi, I'm Gescale Darati
 
 ---
 
-### About Me
-
-I’m a **Software Engineer** and a **final-year BSc Computing student (Class of 2026)** at the **University of South Africa (UNISA)**.
-
-My primary interest is in **building effective, efficient software systems**, focusing on:
-- structure
-- performance
-- reliability
-- and long-term maintainability
-
-I enjoy breaking down complex problem spaces and turning them into **clean, well-designed systems** that scale and adapt over time.
-
-I see software engineering as an exercise in **decision-making and trade-offs**, not just code.
-
----
-
 ### Education
 - **BSc in Computing** — University of South Africa (UNISA)  
-  *Final year · Expected completion: 2026*
+  *Final year*
 
 ---
 
