@@ -1,4 +1,4 @@
-Hi, I'm Gescale Darati
+Hi, I'm Gescale
 ======================
 
 **Software Engineer**
