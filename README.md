@@ -128,13 +128,4 @@ I write about **software design, systems thinking, optimisation, and learning in
 
 - **Medium:** [medium.com/@gescale](https://medium.com/@gescale)
 
-Upcoming topics:
-- Designing structure out of chaos
-- Systems thinking in software engineering
-- Failure, resilience, and optimisation
-- Learning C++, C#, and system-level programming
-
 ---
-
-Thank you for taking the time to visit my profile.  
-I’m always open to collaboration, discussion, and learning from others who care about building meaningful systems.
