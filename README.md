@@ -113,9 +113,9 @@ Hi, I'm Gescale
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gescale&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gescale&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gescale&layout=compact">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gescale&layout=compact">
 </picture>
 
 ---
