@@ -105,9 +105,9 @@ Hi, I'm Gescale
 ### GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true">
-  <img alt="Gescale's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gescale&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gescale&show_icons=true&theme=dark&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gescale&show_icons=true&cache_seconds=1800">
+  <img alt="Gescale's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gescale&show_icons=true&cache_seconds=1800">
 </picture>
 
 <br/>
