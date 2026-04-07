@@ -77,3 +77,7 @@ I write about **software design, systems thinking, optimisation, and learning in
     <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-0891b2?style=flat&logoColor=white" height="32" alt="Portfolio Website" />
   </a>
 </p>
+
+### Connect With Me
+
+**[GitHub](https://github.com/gescale)** | **[LinkedIn](https://www.linkedin.com/in/gescale/)** | **[Twitter / X](https://x.com/its_gescale)** | **[Medium](https://medium.com/@gescale)** | **[Portfolio Website](https://gescale.netlify.app/)**
