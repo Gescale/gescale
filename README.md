@@ -60,24 +60,4 @@ I write about **software design, systems thinking, optimisation, and learning in
 
 ### Connect With Me
 
-<p align="left">
-  <a href="https://github.com/gescale" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gescale/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/its_gescale" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@gescale" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-  </a>
-  <a href="https://gescale.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-0891b2?style=flat&logoColor=white" height="32" alt="Portfolio Website" />
-  </a>
-</p>
-
-### Connect With Me
-
 **[GitHub](https://github.com/gescale)** | **[LinkedIn](https://www.linkedin.com/in/gescale/)** | **[Twitter / X](https://x.com/its_gescale)** | **[Medium](https://medium.com/@gescale)** | **[Portfolio Website](https://gescale.netlify.app/)**
