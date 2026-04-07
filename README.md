@@ -21,8 +21,7 @@
 ### Featured Projects
 *Add your top 2-3 projects here. This is the first thing people want to see!*
 - **[BookStore-UDPListener](github.com/Gescale/BookStore-UDPListener)** - Qt6 C++ BookStore management software UDPSockets Listener, recieves xml files and display on the screen.
-- **[Project Name 2](https://github.com/gescale/project2)** - A brief 1-2 sentence description of what this is, what problem it solves, and the stack used.
-
+- **[aspnetcore_api](github.com/Gescale/aspnetcore_api)** - A deep-dive into building production-grade APIs using ASP.NET Core 10. It tracks my progress through the "Master RESTful API Development" course, moving from fundamental REST principles to complex security architectures and frontend integration.
 ---
 
 ### Education & Learning
