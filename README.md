@@ -1,7 +1,4 @@
 ![Banner](./banner.png)
-<h1 align="center">Hi, I'm Gescale</h1>
-<h3 align="center">Software Engineer</h3>
-
 <p align="center">
   <a href="https://github.com/gescale" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/gescale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
