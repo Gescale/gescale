@@ -17,8 +17,9 @@
 ---
 
 ### Featured Projects
-- **[BookStore-UDPListener](github.com/Gescale/BookStore-UDPListener)** - Qt6 C++ BookStore management software UDPSockets Listener, recieves xml files and display on the screen.
-- **[aspnetcore_api](github.com/Gescale/aspnetcore_api)** - A deep-dive into building production-grade APIs using ASP.NET Core 10. It tracks my progress through the "Master RESTful API Development" course, moving from fundamental REST principles to complex security architectures and frontend integration.
+- **[BookStore-UDPListener](https://github.com/Gescale/BookStore-UDPListener)** - Qt6 C++ BookStore management software UDPSockets Listener, receives xml files and displays on the screen.
+- **[aspnetcore_api](https://github.com/Gescale/aspnetcore_api)** - A deep-dive into building production-grade APIs using ASP.NET Core 10. It tracks my progress through the "Master RESTful API Development" course, moving from fundamental REST principles to complex security architectures and frontend integration.
+
 ---
 
 ### Education & Learning
@@ -29,20 +30,10 @@
 
 ### Technical Skills
 
-<p align="left">
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://www.qt.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/qt-colored.svg" width="36" height="36" alt="Qt" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle SQL" /></a>
-</p>
+* **Languages:** C#, C++, Python, TypeScript, JavaScript (ES6+)
+* **Frameworks & Libraries:** ASP.NET Core, React, Node.js, Qt C++
+* **Databases:** MS SQL Server, MySQL, Oracle SQL, MongoDB
+* **Tools:** Git, Core Cloud Architectures
 
 ---
 
