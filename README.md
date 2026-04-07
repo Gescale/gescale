@@ -19,7 +19,6 @@
 ---
 
 ### Featured Projects
-*Add your top 2-3 projects here. This is the first thing people want to see!*
 - **[BookStore-UDPListener](github.com/Gescale/BookStore-UDPListener)** - Qt6 C++ BookStore management software UDPSockets Listener, recieves xml files and display on the screen.
 - **[aspnetcore_api](github.com/Gescale/aspnetcore_api)** - A deep-dive into building production-grade APIs using ASP.NET Core 10. It tracks my progress through the "Master RESTful API Development" course, moving from fundamental REST principles to complex security architectures and frontend integration.
 ---
@@ -59,7 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gescale&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&ring=0891b2&fire=0891b2" alt="GitHub Streak" />
 </p>
 
-*(Note: If stats ever fail to load temporarily, it is usually just the Vercel API doing routine maintenance!)*
 
 ---
 
