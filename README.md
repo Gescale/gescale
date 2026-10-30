@@ -40,7 +40,7 @@ Backend engineering, API development, cloud integration, systems programming, an
 
 ### Technical skills
 **Languages:** C#, C++, Python, TypeScript, JavaScript (ES6+)  
-**Frameworks & Platforms:** .NET 10 / .NET Core, ASP.NET Core, Entity Framework Core, Qt (C++), React, Node.js  
+**Frameworks & Platforms:** .NET 10 / .NET Core, ASP.NET Core, Entity Framework Core, Qt (C++)  
 **API & Web:** RESTful API design, OpenAPI/Swagger, API versioning, JWT authentication, model validation, middleware, dependency injection  
 **Concurrency & Systems:** Multithreading, concurrency patterns, TCP/UDP networking, low‑level systems concepts, operating systems, computer architecture  
 **Data & Databases:** MS SQL Server, MySQL, Oracle SQL, MongoDB, ORM design, database schema design, query optimization  
