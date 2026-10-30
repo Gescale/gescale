@@ -46,7 +46,7 @@ Backend engineering, API development, cloud integration, systems programming, an
 **Data & Databases:** MS SQL Server, MySQL, Oracle SQL, MongoDB, ORM design, database schema design, query optimization  
 **Language features & patterns:** Object‑oriented programming, LINQ, generics, delegates & events, async/await, memory management  
 **Security & Quality:** Secure coding practices, input validation, error handling, exception management, logging and observability  
-**DevOps & Tools:** Git, CI/CD fundamentals, basic cloud concepts (Azure), container awareness, debugging and profiling tools
+**DevOps & Tools:** Git, CI/CD fundamentals, basic cloud concepts (AWS certified), containerisation (Docker), debugging and profiling tools
 
 ---
 
