@@ -11,7 +11,7 @@
 
 ---
 
-### Short bio
+### Bio
 I design and build secure, scalable software across web, desktop, and cloud environments. I focus on reliable APIs, maintainable systems, and pragmatic engineering practices that balance performance, security, and developer productivity.
 
 ---
