@@ -63,7 +63,7 @@ Backend engineering, API development, cloud integration, systems programming, an
 
 ### Writing & knowledge sharing
 I publish writing on software, life, poetry, philosophy, research and learning in public.  
-Substack: [https://substack.com/@warriorsinmotion](https://warriorinmotion.substack.com/)
+Substack: [https://substack.com/@warriorsinmotion](https://warriorsinmotion.substack.com/)
 
 ---
 
@@ -71,4 +71,3 @@ Substack: [https://substack.com/@warriorsinmotion](https://warriorinmotion.subst
 GitHub: https://github.com/gescale  
 LinkedIn: https://www.linkedin.com/in/gescale/  
 Twitter / X: https://x.com/its_gescale  
-Portfolio: https://gescale.netlify.app/
