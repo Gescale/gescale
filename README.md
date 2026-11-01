@@ -29,7 +29,7 @@ I design and build secure, scalable software across web, desktop, and cloud envi
 
 ### Education
 **BSc in Computing (final year)** — University of South Africa (UNISA)  
-Practical coursework and projects in C++ and Qt, concurrency and threading, TCP/UDP networking with XML data exchange, operating systems, computer architecture, computer organisation, and object‑oriented programming.
+Practical coursework and projects in C++ and Qt, concurrency and threading, TCP/UDP networking with XML data exchange, operating systems, computer architecture, computer organisation, object‑oriented programming, project management, and database design and implementation.
 
 ---
 
