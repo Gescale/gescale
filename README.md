@@ -62,8 +62,8 @@ Backend engineering, API development, cloud integration, systems programming, an
 ---
 
 ### Writing & knowledge sharing
-I publish writing on software design, systems thinking, optimisation, and learning in public.  
-Medium: https://medium.com/@gescale
+I publish writing on software, life, poetry, philosophy, research and learning in public.  
+Substack: [https://substack.com/@warriorsinmotion](https://warriorinmotion.substack.com/)
 
 ---
 
